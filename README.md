@@ -1,6 +1,10 @@
 # tf-vs-pytorch
 
-This repo manually documents the TensorFlow and PyTorch adoption in each class of each school over years, aggregated by DL fields.
+This repo manually documents the TensorFlow and PyTorch adoption in each class of each school over years, aggregated by
+DL fields.
+
+Here a library is considered as the major use in class if the template code of assignments is based on that library. If 
+multiple libraries are present, templates based on multiple libraries are provided.  
 
 ## General Deep Learning
 
