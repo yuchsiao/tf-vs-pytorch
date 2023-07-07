@@ -18,9 +18,9 @@ Stanford | cs224u |![na](na.svg)|![tf](na.svg)|![tf](tf.svg)|![pt](pt.svg)|![pt]
 
 ## Computer Vision
 
-School   | Course | 2016 | 2017 | 2018 | 2019 | 2020 | 2021
--------- | ------ | ---- | ---- | ---- | ---- | ---- | ----
-Stanford | cs231n |Course Provided|![tf](tf.svg)![pt](pt.svg)|![tf](tf.svg)![pt](pt.svg)|![pt](tf.svg)![pt](pt.svg)|![pt](tf.svg)![pt](pt.svg)|
+School   | Course | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023
+-------- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+Stanford | cs231n |Course Provided|![tf](tf.svg)![pt](pt.svg)|![tf](tf.svg)![pt](pt.svg)|![pt](tf.svg)![pt](pt.svg)|![pt](tf.svg)![pt](pt.svg)|![pt](tf.svg)![pt](pt.svg)|![pt](pt.svg)|![pt](pt.svg)|
 
 
 ## Reinforcement Learning
